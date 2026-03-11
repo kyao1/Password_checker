@@ -4,8 +4,8 @@ password_checker.py
 A command-line tool to evaluate password strength based on
 common security requirements used in the industry.
 
-Author : Konan Achille Yao
-GitHub : github.com/konanyao
+Author : Konan Yao
+GitHub : github.com/kyao1
 """
 
 import re
